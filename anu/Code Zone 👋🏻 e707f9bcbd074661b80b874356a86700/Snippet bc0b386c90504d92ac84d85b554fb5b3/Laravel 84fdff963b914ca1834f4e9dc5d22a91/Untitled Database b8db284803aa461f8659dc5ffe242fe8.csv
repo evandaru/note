@@ -1,0 +1,14 @@
+﻿No.,Name,Chapter,Type
+1,Make connection,make crud,"native, php"
+2,Make Read,make crud,"native, php"
+3,Make create,make crud,"native, php"
+4,Make Update,make crud,"native, php"
+5,Make delete,make crud,"native, php"
+1,Make connection,API,"native, php"
+2,Fecth Data,API,"native, php"
+1,Create project,Basic Laravel,"framework, laravel"
+2,"Model, Migration, Controller",Basic Laravel,"framework, laravel"
+,,,
+1,Start your Journey,Basic CI4,"Codeigniter, framework"
+2,"Route, Model, View, Controller",Basic CI4,"Codeigniter, framework"
+3,membuat CRUD,Basic CI4,"Codeigniter, framework"
